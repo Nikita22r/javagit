@@ -1,0 +1,1 @@
+// A salesman purchases 100 cabs at the cost of 1000 , 10 cabs are damaged and 200rs is used for food , 300rs for travelling , what is the cost of 1 cab????

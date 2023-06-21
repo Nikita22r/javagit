@@ -1,0 +1,4 @@
+// to display all prime numbers from 1-50
+// to display fibonacci series upto 15
+// to check armstrong numbers
+// to read a number and check is it a prime number.

@@ -1,0 +1,3 @@
+// to read a num and check is it  a palindrome(242)
+// to read a num and find the sum of indiviual numbers 
+ 

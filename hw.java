@@ -1,0 +1,1 @@
+// salesman purchases 50 cabs at the rate of 500rs what will be the cost of 1 cab

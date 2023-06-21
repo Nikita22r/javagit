@@ -1,0 +1,4 @@
+To compile
+d:
+javac _____.java
+java ______

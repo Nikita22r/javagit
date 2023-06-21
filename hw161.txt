@@ -1,0 +1,6 @@
+// write a prog to display the numbers from 20-10 '
+// write a prog to display all even numbers from 1-20 .
+// write  aprogram to displayb the sum of 1-10
+// write a prog to display the numbers from 1-30 which are divisible by 3
+// write a program to display the follwing messages for the range 1-30 , if the number divides by 3 display //hi , if number divides by 5 display hello , if number divides by 3 & 5 display hihello
+//

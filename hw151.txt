@@ -1,0 +1,17 @@
+//write a program to display the messages
+// if a number divides by 3 display hello
+// if number divides by 5 display hi
+// if number divides by 3 and 5 display hello hi
+// given is 3 
+
+
+
+
+
+
+
+
+
+
+
+

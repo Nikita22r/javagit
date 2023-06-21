@@ -1,0 +1,9 @@
+// Loops = to repeat the same statement again and again loops are used , by using loops the same set of code //can be executed any number of times , following are the 3 different types of loops supported by java , from //jdk //1.8 onwards advanced looping convept is introduced by using for each concept ,  
+// for loop = when we know the number of repeations we use for loop , for loop is a entry control loop , which //checks the condition first then the execution starts , due to this feature is called entry control loop, for //loop takes 3 parameters first parametre as a start value or intial value 2nd parameter as a condition till the //condition is true loop will execute  the moment condition false loop will be terminated 3rd parameter as a //increment or decrement.
+Syntax = for(start;condition;incr/decr)
+{
+True
+---
+---
+} 
+false-> exit+
